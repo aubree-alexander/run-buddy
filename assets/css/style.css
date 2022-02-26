@@ -131,7 +131,7 @@ h3 {
 
 .trainer {
     width: 900px;
-    margin: 0 auto 30 px auto;
+    margin: 20px 20px;
     background: #024e76;
     color: #fce138;
     overflow: auto;
@@ -140,14 +140,12 @@ h3 {
 .trainer img {
     width: 35%;
     float: left;
-    overflow: auto;
 }
 
 .trainer-bio {
     padding: 35px;
     float: left;
     width: 65%;
-    overflow: auto;
 }
 
 .trainer-bio h3 {
@@ -167,7 +165,7 @@ h3 {
 }
 
 .text-left {
-    text-aligh: left;
+    text-align: left;
 }
 
 .text-right {
