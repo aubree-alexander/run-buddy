@@ -64,7 +64,7 @@ section {
 /*Hero Style Start*/
 
 .hero {
-    background-image: url("../images/hero-bg.jpeg");
+    background-image: url("../images/flipped-hero-image.jpeg");
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -113,6 +113,18 @@ section {
     padding: 10px 20px;
     font-size: 16px;
 }
+
+.hero-cta {
+    color: #fce138;
+    font-size: 30px;
+    font-style: italic;
+}
+.hero-text {
+    color: white;
+    font-size: 20px;
+    font-style: normal;
+}
+
 .intro {
     text-align: center;
 }
